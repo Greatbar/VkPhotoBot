@@ -1,0 +1,77 @@
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"1970361842"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(54): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1943223084"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(54): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-708367307"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(53): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-298176600"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(53): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"744190203"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(53): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1734492044"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(53): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"198684516"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(53): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"580500798"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(53): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-1874695306"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(50): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"-984145195"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(50): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}
+[Exception]: возникла ошибка:
+[Exception]: текст: {"error":{"error_code":911,"error_msg":"Keyboard format is invalid: button [0][0] has invalid color","request_params":[{"key":"method","value":"messages.send"},{"key":"oauth","value":"1"},{"key":"peer_id","value":"133547440"},{"key":"keyboard","value":"{\"one_time\":false,\"buttons\":[[{\"action\":{\"type\":\"text\",\"payload\":\"{\\\"command\\\":\\\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\\\"}\",\"label\":\"\u0420\u0459\u0420\u0455\u0421\u201a\u0421\u2039\"},\"color\":\"Green\"}]],\"inline\":false}"},{"key":"v","value":"5.81"},{"key":"random_id","value":"493264381"}]}}
+[Exception]: код ошибки: 911
+[Exception]: файл: O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php:229
+[Exception]: путь ошибки: #0 O:\OpenServer\OSPanel\domains\VkBotTest.ru\vendor\digitalstars\simplevk\src\vk_api.php(427): DigitalStar\vk_api\vk_api->request('messages.send', Array)
+#1 O:\OpenServer\OSPanel\domains\VkBotTest.ru\VkPhotoBotTests.php(50): DigitalStar\vk_api\vk_api->sendButton(133547440, '\xD0\x9D\xD0\xB0\xD0\xB6\xD0\xBC\xD0\xB8 \xD0\xBD\xD0\xB0...', Array)
+#2 {main}

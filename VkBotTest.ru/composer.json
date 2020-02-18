@@ -1,0 +1,7 @@
+{
+    "require": {
+        "digitalstars/simplevk": "^2.12",
+        "ext-json": "*",
+        "ext-curl": "*"
+    }
+}
