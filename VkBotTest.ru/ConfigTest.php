@@ -6,13 +6,13 @@ $arr = explode('_', $path);
 $owner_id = $arr[0];
 $album_id = $arr[1];
 
-$standalone = "e6542380fb566f08114d022164496edbbc3934fc25f95d7225d115a454fbafe2622c60c7f6153af269cfe";
-$group_token = "2463fc77e8fa0292fc926549bca76b73248439b1061cc820a2d48ad98b7b63e9e48984f541208078532e0";
+$standalone = "";
+$group_token = "";
 
 $conf = [
-    'standalone' => 'e6542380fb566f08114d022164496edbbc3934fc25f95d7225d115a454fbafe2622c60c7f6153af269cfe',
-    'group_token' => '2463fc77e8fa0292fc926549bca76b73248439b1061cc820a2d48ad98b7b63e9e48984f541208078532e0',
-    'conform_token' => '39b68685',
+    'standalone' => '',
+    'group_token' => '',
+    'conform_token' => '',
     'not_command' => 'Я умею присылать тольки фотки, попробуй попросить у меня фотографию :) ',
     'owner_id' => $owner_id,
     'album_id' => $album_id,
